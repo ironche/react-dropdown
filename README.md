@@ -1,5 +1,7 @@
 # React Dropdown
 
+Live demo: https://codesandbox.io/s/admiring-architecture-mkmwfl
+
 Before starting, make sure to have NodeJS and NPM installed. Install all dependencies and start the app by executing:
 
 ```shell
